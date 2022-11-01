@@ -1,0 +1,36 @@
+body {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+footer {
+  background: #352e5d !important;
+  color: white;
+}
+
+a {
+  text-decoration: none;
+  color: #bbbbe4;
+}
+
+#welcome_page {
+  height: 670px;
+  color: white;
+  background-image: url(../images/beautiful-cute-dog-Favim.com-6571372.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 110%;
+}
+
+#clicker {
+  font-size: 2rem !important;
+  color: white !important;
+}
+
+#cookie:hover {
+  width: 27%;
+}
+
+#dog-video {
+  width: 70%;
+  margin-left: 16%;
+}
